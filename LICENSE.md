@@ -53,7 +53,7 @@ Under this license you may not:
 
 ### Governing Law
 
-Any claim relating to the Software shall be governed by the laws of your jurisdiction without regard to its conflict of law provisions.
+Any claim relating to the Software shall be governed by the laws of Calgary, Alberta - Canada without regard to its conflict of law provisions.
 
 ### Privacy Policy
 
@@ -85,4 +85,4 @@ By using our Software, you consent to our Privacy Policy.
 
 ### Contact Us
 
-If you have any questions regarding privacy while using the Software, or have questions about our practices, please contact us via email.
+If you have any questions regarding privacy while using the Software, or have questions about our practices, please contact us via email. allbrancereal@proton.me
